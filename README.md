@@ -9,7 +9,6 @@ I won't lie, this process was very important to me to develop better as a person
 
 ## I love to share all that I learn, so if you want to contact me, please send me an invite:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jessica-cezar-silva/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/.yuniaa/)
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicaceezar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=7F007F&title_color=FF007F&text_color=FFF)
